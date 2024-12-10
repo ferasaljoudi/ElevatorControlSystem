@@ -55,4 +55,7 @@ The goal of this project is to design an elevator control system using the STM32
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/resources.svg" alt="Resources" style="width: 100%"></a>
 </div>
-<br>
+
+### [Milestone.pdf](./Milestone.pdf) outlines the completed work in the first phase and future tasks for the final phase.
+
+### [ElevatorProject.pdf](./ElevatorProject.pdf) outlines the completed work in the final phase.

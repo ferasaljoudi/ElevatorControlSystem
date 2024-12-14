@@ -19,6 +19,28 @@ The goal of this project is to design an elevator control system using the STM32
 
 <br>
 <div style="width: 100%;">
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
+</div>
+<br>
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+        <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/c.svg" alt="C"></a>
+    </td>
+    <td>
+        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Left/stm32.svg" alt="Stm32"></a>
+    </td>
+    <td>
+        <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Right/stm32Cube.svg" alt="STM32Cube"></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+<div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/objectives.svg" alt="Objectives" style="width: 100%"></a>
 </div>
 <br>
